@@ -7,8 +7,8 @@ class HomeController {
         include "view/Index.php";
     }
 
-    public function Login() {
-        include "view/Login.php";
+    public function Cadastro() {
+        include "view/Cadastro.php";
     }
 
     public function Painel() {

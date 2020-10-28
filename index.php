@@ -11,8 +11,8 @@ switch ($pagina) {
         $ctrl->Index();
         break;
     
-    case 'login':
-        $ctrl->Login();
+    case 'cadastro':
+        $ctrl->Cadastro();
         break;
     
     case 'painel':
